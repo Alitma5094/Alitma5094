@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Making my own programming language**
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **CSS**
 
 - 💬 Ask me about **Anything**
 
