@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/alitma5094" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alitma5094" height="30" width="40" /></a>
 </p>
-### Things I know
+<h3 align="left">Some things I know:</h3>
 
 - Python
 - Django
