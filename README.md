@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Andrew Litman</h1>
+<h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">A back end web developer</h3>
 
-- 🔭 I’m currently working on a digital school club platform
+- 🔭 I’m currently working inventory managment systems for the recycling industry.
 
-- 🌱 I’m currently learning **the ropes of life**
+- 🌱 I’m currently learning **SQL**
 
 - 💬 Ask me about **anything**
 
@@ -13,7 +13,8 @@
 
 - Python
 - Javascript
-- React Native
 - Django
 - HTML
 - Go
+- SQL
+- The air speed velocity of an unladen swallow
