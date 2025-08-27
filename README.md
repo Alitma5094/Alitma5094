@@ -1,9 +1,12 @@
+> [!NOTE]
+> All new repos are at [git.inbetween.place](https://git.inbetween.place/).
+
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">A back end web developer</h3>
 
 - 🔭 I’m currently working inventory managment systems for the recycling industry.
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **everything**
 
 - 💬 Ask me about **anything**
 
