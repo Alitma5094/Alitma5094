@@ -1,5 +1,5 @@
 > [!NOTE]
-> All new repos are at [git.inbetween.place](https://git.inbetween.place/).
+> All new repos are at [code.inbetween.place](https://code.inbetween.place/).
 
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">A back end web developer</h3>
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **litmanandrew@gmail.com**
+- 📫 How to reach me **andrew@inbetween.place**
 
 <h3 align="left">Some things I know:</h3>
 
